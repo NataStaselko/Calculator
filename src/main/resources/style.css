@@ -1,0 +1,5 @@
+.button:focused {
+    -fx-border-color:   #888889;
+    -fx-border-width: 3;
+}
+

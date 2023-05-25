@@ -1,4 +1,5 @@
 # Calculator
+for Windows
 #### _Hello)_
 download the zip from the link: 
 
